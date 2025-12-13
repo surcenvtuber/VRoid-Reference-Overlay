@@ -39,6 +39,7 @@ English | 中文
 
 
 🇺🇸 English Description
+
 A lightweight, always-on-top reference image overlay tool designed for VRoid Studio. No installation required, just one file.
 
 ✨ Features
