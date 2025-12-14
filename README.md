@@ -2,7 +2,7 @@ VRoid Reference Overlay Tool (VRoid 参考图悬浮工具)
 
 中文 | English | 日本語
 
-🇨🇳 中文说明
+中文说明
 这是一个专为 VRoid Studio 设计的轻量级参考图悬浮工具。它无需安装，只有一个文件，双击即可运行。
 
 ✨ 核心功能
@@ -38,7 +38,7 @@ VRoid Reference Overlay Tool (VRoid 参考图悬浮工具)
 文件本质是 Windows 批处理 (.bat) 混合 PowerShell 脚本。你可以右键点击文件选择“编辑”查看所有源代码，确保无恶意代码。
 
 
-🇺🇸 English Description
+English Description
 
 A lightweight, always-on-top reference image overlay tool designed for VRoid Studio. No installation required, just one file.
 
@@ -75,7 +75,7 @@ It is a mixed Batch/PowerShell script. You can inspect the source code by right-
 (c) 2025 Created by Surcen苏森
 
 
-🇯🇵 **日本語説明**
+日本語説明
 
 これは VRoid Studio 向けに作られた、軽量な参考画像オーバーレイツールです。
 インストール不要、単一ファイルのみで、ダブルクリックするだけで起動できます。
