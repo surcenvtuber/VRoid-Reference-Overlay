@@ -3,6 +3,7 @@ VRoid Reference Overlay Tool (VRoid 参考图悬浮工具)
 中文 | English | 日本語
 
 中文说明
+
 这是一个专为 VRoid Studio 设计的轻量级参考图悬浮工具。它无需安装，只有一个文件，双击即可运行。
 
 ✨ 核心功能
